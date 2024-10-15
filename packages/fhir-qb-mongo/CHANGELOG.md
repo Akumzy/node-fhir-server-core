@@ -3,19 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [0.11.0](https://github.com/BlueHalo/phx-tools/compare/@bluehalo/fhir-qb-mongo@0.10.5...@bluehalo/fhir-qb-mongo@0.11.0) (2019-11-12)
+# [0.11.0](https://github.com/BlueHalo/phx-tools/compare/@akumzy/fhir-qb-mongo@0.10.5...@akumzy/fhir-qb-mongo@0.11.0) (2019-11-12)
 
 ### Features
 
 - add token searching for psql ([#32](https://github.com/BlueHalo/phx-tools/issues/32)) ([b9222d4](https://github.com/BlueHalo/phx-tools/commit/b9222d4))
 
-## [0.10.2](https://github.com/BlueHalo/phx-tools/compare/@bluehalo/fhir-qb-mongo@0.10.1...@bluehalo/fhir-qb-mongo@0.10.2) (2019-05-03)
+## [0.10.2](https://github.com/BlueHalo/phx-tools/compare/@akumzy/fhir-qb-mongo@0.10.1...@akumzy/fhir-qb-mongo@0.10.2) (2019-05-03)
 
-**Note:** Version bump only for package @bluehalo/fhir-qb-mongo
+**Note:** Version bump only for package @akumzy/fhir-qb-mongo
 
 ## 0.10.1 (2019-04-05)
 
-**Note:** Version bump only for package @bluehalo/fhir-qb-mongo
+**Note:** Version bump only for package @akumzy/fhir-qb-mongo
 
 # 0.10.0 (2019-03-20)
 

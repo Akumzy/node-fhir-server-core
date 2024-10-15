@@ -1,5 +1,5 @@
 {
-  "name": "@bluehalo/sof-graphql-invariant",
+  "name": "@akumzy/sof-graphql-invariant",
   "version": "2.1.0",
   "description": "Smart on FHIR scope checker for GraphQL",
   "homepage": "https://github.com/Bluehalo/node-fhir-server-core",
@@ -15,7 +15,7 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "@bluehalo/sof-scope-checker": "^1.1.0",
+    "@akumzy/sof-scope-checker": "^1.1.0",
     "graphql": "^16.9.0"
   },
   "devDependencies": {

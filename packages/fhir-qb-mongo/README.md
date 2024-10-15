@@ -5,7 +5,7 @@
 ## Install
 
 ```shell
-yarn add @bluehalo/fhir-qb-mongo
+yarn add @akumzy/fhir-qb-mongo
 ```
 
 ## Usage

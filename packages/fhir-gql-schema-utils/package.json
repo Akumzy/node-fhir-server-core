@@ -1,5 +1,5 @@
 {
-  "name": "@bluehalo/fhir-gql-schema-utils",
+  "name": "@akumzy/fhir-gql-schema-utils",
   "version": "1.2.0",
   "description": "Suite of FHIR related utilities for GraphQL schemas.",
   "homepage": "https://github.com/Bluehalo/node-fhir-server-core",

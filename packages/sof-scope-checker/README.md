@@ -5,13 +5,13 @@
 # Install
 
 ```shell
-yarn add @bluehalo/sof-scope-checker
+yarn add @akumzy/sof-scope-checker
 ```
 
 ## Usage
 
 ```
-const scopeChecker = require('@bluehalo/sof-scope-checker');
+const scopeChecker = require('@akumzy/sof-scope-checker');
 
 let hasValidScopes = (name, action) => {
   return function (req, res, next) {
@@ -42,7 +42,7 @@ NOTE: The error returned is an extension of the native JS error. It adds a type 
 
 ## Arguments
 
-`@bluehalo/sof-scope-checker` exports a single function which takes three arguments.
+`@akumzy/sof-scope-checker` exports a single function which takes three arguments.
 
 #### `name`
 

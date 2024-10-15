@@ -5,14 +5,14 @@
 ## Install
 
 ```shell
-yarn add @bluehalo/sof-strategy
+yarn add @akumzy/sof-strategy
 ```
 
 ## Usage
 
 ```javascript
 // Returns a helper function to setup your strategy
-const smartBearerStrategy = require('@bluehalo/sof-strategy');
+const smartBearerStrategy = require('@akumzy/sof-strategy');
 const passport = require('passport');
 
 // Create our strategy by giving it some config options, all are required
@@ -39,7 +39,7 @@ See [sof-strategy tests](https://github.com/BlueHalo/node-fhir-server-core/tree/
 
 ## Arguments
 
-`@bluehalo/sof-strategy` exports a single function which takes a single options argument with the following properties.
+`@akumzy/sof-strategy` exports a single function which takes a single options argument with the following properties.
 
 #### `introspectionUrl`
 

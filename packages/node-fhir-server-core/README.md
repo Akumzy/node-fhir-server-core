@@ -53,4 +53,4 @@ This library makes use of node's path module. This is potentially exploitable in
 
 ## License
 
-`@bluehalo/node-fhir-server-core` is [MIT licensed](https://github.com/BlueHalo/node-fhir-server-core/blob/master/LICENSE).
+`@akumzy/node-fhir-server-core` is [MIT licensed](https://github.com/BlueHalo/node-fhir-server-core/blob/master/LICENSE).

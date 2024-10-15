@@ -5,7 +5,7 @@
 ## Install
 
 ```shell
-yarn add @bluehalo/fhir-qb-sql
+yarn add @akumzy/fhir-qb-sql
 ```
 
 ## Usage

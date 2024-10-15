@@ -1,5 +1,5 @@
 {
-  "name": "@bluehalo/sof-scope-checker",
+  "name": "@akumzy/sof-scope-checker",
   "version": "1.1.0",
   "description": "Smart on FHIR scope checker",
   "homepage": "https://github.com/BlueHalo/node-fhir-server-core",

@@ -5,12 +5,12 @@
 ## Install
 
 ```shell
-yarn add @bluehalo/fhir-json-schema-validator
+yarn add @akumzy/fhir-json-schema-validator
 ```
 
 ## Arguments
 
-`@bluehalo/fhir-json-schema-validator` exports a single class called JSONSchemaValidator. This class takes two optional
+`@akumzy/fhir-json-schema-validator` exports a single class called JSONSchemaValidator. This class takes two optional
 arguments for initialization:
 
 > #### `schema`

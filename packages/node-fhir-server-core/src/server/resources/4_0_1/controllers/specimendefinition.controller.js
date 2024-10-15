@@ -1,4 +1,4 @@
-const handler = require('@bluehalo/fhir-response-util');
+const handler = require('@akumzy/fhir-response-util');
 
 /**
  * @function search

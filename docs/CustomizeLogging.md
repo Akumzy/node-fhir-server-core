@@ -1,11 +1,11 @@
 ## Overview
 
-If you simply need to use the core fhir server `winston` Container you can do so by requiring it from `@bluehalo/fhir-server-core`
+If you simply need to use the core fhir server `winston` Container you can do so by requiring it from `@akumzy/fhir-server-core`
 
 ```javascript
 // Your patient.service.js
-const { resolveSchema } = require('@bluehalo/node-fhir-server-core');
-const { loggers } = require('@bluehalo/node-fhir-server-core');
+const { resolveSchema } = require('@akumzy/node-fhir-server-core');
+const { loggers } = require('@akumzy/node-fhir-server-core');
 const logger = loggers.get('default');
 
 module.exports.search = async (args, context) => {
@@ -36,7 +36,7 @@ You can access the core `winston` Transports manually using `Server.configureLog
 
 ```javascript
 // Example server with write to file logging
-const { initialize } = require('@bluehalo/node-fhir-server-core');
+const { initialize } = require('@akumzy/node-fhir-server-core');
 
 const fhirServerConfig = {
   profiles: {
