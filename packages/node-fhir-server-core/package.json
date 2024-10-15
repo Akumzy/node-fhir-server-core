@@ -1,6 +1,6 @@
 {
   "name": "@akumzy/node-fhir-server-core",
-  "version": "2.3.4",
+  "version": "2.3.5",
   "description": "Node FHIR Rest API Server",
   "license": "MIT",
   "author": "BlueHalo",
@@ -41,8 +41,8 @@
     "verbose": true
   },
   "dependencies": {
-    "@akumzy/fhir-response-util": "^1.3.4",
-    "@akumzy/sof-scope-checker": "^1.1.4",
+    "@akumzy/fhir-response-util": "^1.3.5",
+    "@akumzy/sof-scope-checker": "^1.1.5",
     "@hapi/bourne": "^3.0.0",
     "body-parser": "^1.20.2",
     "compression": "^1.7.4",
