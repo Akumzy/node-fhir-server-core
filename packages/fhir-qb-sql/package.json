@@ -1,6 +1,6 @@
 {
   "name": "@akumzy/fhir-qb-sql",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "FHIR query builder for SQL",
   "homepage": "https://github.com/Bluehalo/node-fhir-server-core",
   "repository": {

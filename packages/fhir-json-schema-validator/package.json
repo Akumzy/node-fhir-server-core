@@ -1,6 +1,6 @@
 {
   "name": "@akumzy/fhir-json-schema-validator",
-  "version": "0.10.3",
+  "version": "0.10.4",
   "description": "FHIR json schema validator",
   "homepage": "https://github.com/BlueHalo/node-fhir-server-core",
   "repository": {
