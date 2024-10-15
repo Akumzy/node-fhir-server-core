@@ -81,7 +81,7 @@
   "engines": {
     "node": "^8.10.0 || ^10.13.0 || >=11.10.1"
   },
-  "gitHead": "ce5178031a28952eec1bf6c3e31192a5ae227ce1",
+  "gitHead": "4360444ec7ed8d2303166d2642fd8be3cb160af0",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
