@@ -78,10 +78,9 @@ function create(req, res, json, options) {
     res.set('ETag', json.resource_version);
   }
 
-  res.json(json);
   res.type(getContentType(fhirVersion));
   res.set('Location', location);
-  res.status(201).end();
+  res.status(201).json(json).end();
 }
 
 /**
@@ -104,11 +103,10 @@ function update(req, res, json, options) {
     res.set('Content-Location', `${baseUrl}/${pathname}`);
     res.set('ETag', json.resource_version);
   }
-  res.json(json);
   res.set('Last-Modified', date.toISOString());
   res.type(getContentType(fhirVersion));
   res.set('Location', location);
-  res.status(status).end();
+  res.status(status).json(json).end();
 }
 
 /**
