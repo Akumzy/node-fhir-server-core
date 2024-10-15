@@ -1,6 +1,6 @@
 {
   "name": "@akumzy/fhir-response-util",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "description": "Utility for handling the headers, content, and status types for a response.",
   "homepage": "https://github.com/Bluehalo/node-fhir-server-core",
   "repository": {

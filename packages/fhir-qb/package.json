@@ -1,6 +1,6 @@
 {
   "name": "@akumzy/fhir-qb",
-  "version": "0.13.2",
+  "version": "0.13.3",
   "description": "FHIR query builder",
   "homepage": "https://github.com/Bluehalo/node-fhir-server-core",
   "repository": {
@@ -32,8 +32,8 @@
     "verbose": true
   },
   "dependencies": {
-    "@akumzy/fhir-qb-mongo": "^0.13.2",
-    "@akumzy/fhir-sanitize-param": "^1.2.2",
+    "@akumzy/fhir-qb-mongo": "^0.13.3",
+    "@akumzy/fhir-sanitize-param": "^1.2.3",
     "mathjs": "^13.1.1",
     "moment": "^2.30.1",
     "sequelize": "^6.37.3",
