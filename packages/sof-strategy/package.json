@@ -20,7 +20,7 @@
   "scripts": {
     "test": "jest"
   },
-  "gitHead": "83a7073a91dbe820521cbb7aefb8fa836ae85036",
+  "gitHead": "ce5178031a28952eec1bf6c3e31192a5ae227ce1",
   "devDependencies": {
     "jest": "^29.7.0"
   }
