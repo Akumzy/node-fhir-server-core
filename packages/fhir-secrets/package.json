@@ -1,6 +1,6 @@
 {
   "name": "@akumzy/fhir-secrets",
-  "version": "0.10.1",
+  "version": "0.10.2",
   "description": "AWS KMS Secrets retrieval promisified",
   "homepage": "https://github.com/Bluehalo/node-fhir-server-core",
   "repository": {
